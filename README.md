@@ -1,7 +1,10 @@
 # Hello world! :)
 
 
-My name is Stella Souza and I'm a System Development Student. I'm from Brazil, studying C and Python. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Stella Souza and I'm a System Development Student.
+I'm from Brazil, studying C and Python.
+You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
 <!--
 **stellar-uou/stellar-uou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
