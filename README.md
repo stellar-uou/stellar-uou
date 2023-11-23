@@ -4,16 +4,6 @@
 My name is Stella Souza and I'm a System Development Student. <br>
 I'm from Brazil, currently studying C and Python. <br>
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-<p align="left">
-  <a href="#" title="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white=https://twitter.com/StellaSouzaV" alt="Twitter"/></a>
-  
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/stellasouzavieira/" alt="LinkedIn"/></a>
-  
-<a href="#" title="Itch.io">
-  <im src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white=https://batata-uou.itch.io/" alt="Itch.io"/></a>
-</p>
 
 <!--
 **stellar-uou/stellar-uou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
