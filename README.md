@@ -4,7 +4,7 @@
 My name is Stella Souza and I'm a System Development Student. <br>
 I'm from Brazil, currently studying C and Python. <br>
 
-<h3>Where to find me</h3> <br>
+<h3>Where to find me:</h3> <br>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stellasouzavieira/)](https://www.linkedin.com/in/stellasouzavieira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stella.souzavieira20@gmail.com)](mailto:stella.souzavieira20@gmail.com)
