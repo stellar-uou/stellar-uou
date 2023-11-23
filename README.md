@@ -2,7 +2,7 @@
 
 
 My name is Stella Souza and I'm a System Development Student. <br>
-I'm from Brazil, studying C and Python. <br>
+I'm from Brazil, currently studying C and Python. <br>
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <!--
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/stellar-uou">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stellar-uou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellar-uou&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stellar-uou&show_icons=true&theme=Tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellar-uou&layout=compact&langs_count=16&theme=Tokyonight"/>
 </div>
 
 <!-- links to social media icons -->
