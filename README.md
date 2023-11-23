@@ -8,7 +8,7 @@ I'm from Brazil, currently studying C and Python. <br>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stellasouzavieira/)](https://www.linkedin.com/in/stellasouzavieira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stella.souzavieira20@gmail.com)](mailto:stella.souzavieira20@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/stellar-uou)
+[![GitHub](https://img.shields.io/github/followers/stellar-uou?label=follow&style=social)](https://github.com/stellar-uou)
 
 ## Skills 
 
