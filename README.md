@@ -1,8 +1,8 @@
 # Hello world! :)
 
 
-My name is Stella Souza and I'm a System Development Student.
-I'm from Brazil, studying C and Python.
+My name is Stella Souza and I'm a System Development Student. <br>
+I'm from Brazil, studying C and Python. <br>
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <!--
