@@ -11,7 +11,7 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/stellasouzavieira/" alt="LinkedIn"/></a>
   
-<a href="#" title+"Itch.io">
+<a href="#" title="Itch.io">
   <im src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white=https://batata-uou.itch.io/" alt="Itch.io"/></a>
 </p>
 
