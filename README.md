@@ -1,4 +1,3 @@
-<h1>$${\color{lightblue}Hello \space World! :)}$$</h1>
 <h1 align="left">Hello World! :)</h1>
 
 ###
@@ -51,22 +50,8 @@
 
 <div align="center">
   <a href="https://github.com/stellar-uou">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stellar-uou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellar-uou&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/stellar-uou/stellar-uou/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Stellaaaaa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6xgt6wcgp812kubd9q1y72nrv&count={count}" alt="Spotify recently played"  />
-  </a>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=stellar-uou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellar-uou&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 ###
