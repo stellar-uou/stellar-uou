@@ -49,11 +49,11 @@
 
 ###
 
-<div align="center">
+
   <a href="https://github.com/stellar-uou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stellar-uou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellar-uou&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+
 
 ###
 
